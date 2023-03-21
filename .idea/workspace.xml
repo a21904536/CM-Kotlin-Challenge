@@ -4,30 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d7851dc-5698-4a99-b8bb-23a2c4dc91f6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    <list default="true" id="7d7851dc-5698-4a99-b8bb-23a2c4dc91f6" name="Changes" comment="Ficheiros e packages">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CM-Kotlin-Challenge/META-INF/CM-Kotlin-Challenge.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CM-Kotlin-Challenge/pt/ulusofona/cm/kotlin/challenge/MainKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CM-Kotlin-Challenge/pt/ulusofona/cm/kotlin/challenge/interfaces/Ligavel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CM-Kotlin-Challenge/pt/ulusofona/cm/kotlin/challenge/interfaces/Movimentavel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CM-Kotlin-Challenge/pt/ulusofona/cm/kotlin/challenge/models/Bicicleta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CM-Kotlin-Challenge/pt/ulusofona/cm/kotlin/challenge/models/Carro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CM-Kotlin-Challenge/pt/ulusofona/cm/kotlin/challenge/models/Carta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CM-Kotlin-Challenge/pt/ulusofona/cm/kotlin/challenge/models/Motor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CM-Kotlin-Challenge/pt/ulusofona/cm/kotlin/challenge/models/Pessoa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CM-Kotlin-Challenge/pt/ulusofona/cm/kotlin/challenge/models/Posicao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CM-Kotlin-Challenge/pt/ulusofona/cm/kotlin/challenge/models/Veiculo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/pt/ulusofona/cm/kotlin/challenge/Main.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/pt/ulusofona/cm/kotlin/challenge/interfaces/Ligavel.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/pt/ulusofona/cm/kotlin/challenge/interfaces/Movimentavel.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/pt/ulusofona/cm/kotlin/challenge/models/Bicicleta.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/pt/ulusofona/cm/kotlin/challenge/models/Carro.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/pt/ulusofona/cm/kotlin/challenge/models/Carta.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/pt/ulusofona/cm/kotlin/challenge/models/Motor.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/pt/ulusofona/cm/kotlin/challenge/models/Pessoa.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/pt/ulusofona/cm/kotlin/challenge/models/Posicao.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/pt/ulusofona/cm/kotlin/challenge/models/Veiculo.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +41,8 @@
     "jdk.selected.JAVA_MODULE": "openjdk-19",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -75,6 +54,29 @@
       <option name="presentableId" value="Default" />
       <updated>1679419021483</updated>
     </task>
+    <task id="LOCAL-00001" summary="Ficheiros e packages">
+      <created>1679419854450</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679419854450</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ficheiros e packages" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ficheiros e packages" />
   </component>
 </project>
